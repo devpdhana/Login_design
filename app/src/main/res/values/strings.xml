@@ -3,4 +3,17 @@
     <string name="log_in">Login</string>
     <string name="enter_email">Enter Email</string>
     <string name="enter_password">Enter Password</string>
+    <string name="welcome_back">Welcome Back !</string>
+    <string name="manage_your_car_service">manage your car service</string>
+    <string name="smart_work">Smart Work</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="or">or</string>
+    <string name="register">Register</string>
+    <string name="welcome">Welcome</string>
+    <string name="cmt">Helo here Register to Continue</string>
+    <string name="phonenumber">PhoneNumber</string>
+    <string name="password">Password</string>
+    <string name="is_you_shop_owner">Is you Shop Owner</string>
+    <string name="btnregister">REGISTER</string>
 </resources>
