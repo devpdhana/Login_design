@@ -16,4 +16,13 @@
     <string name="password">Password</string>
     <string name="is_you_shop_owner">Is you Shop Owner</string>
     <string name="btnregister">REGISTER</string>
+    <string name="create_your_account">Create your account</string>
+    <string name="your_name">YOUR NAME</string>
+    <string name="email">EMAIL</string>
+    <string name="register1">Register</string>
+    <string name="login">Login</string>
+    <string name="sign_to_your_account">Sign to your account</string>
+    <string name="your_email">YOUR EMAIL</string>
+    <string name="your_password">YOUR PASSWORD</string>
+    <string name="sample_gmail">sample@gmail.com</string>
 </resources>
