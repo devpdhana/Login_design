@@ -25,4 +25,16 @@
     <string name="your_email">YOUR EMAIL</string>
     <string name="your_password">YOUR PASSWORD</string>
     <string name="sample_gmail">sample@gmail.com</string>
+    <string name="profile">Profile</string>
+    <string name="mini_headline">Mini Headline</string>
+    <string name="popular">Popular</string>
+    <string name="today">Today</string>
+    <string name="trending">Trending</string>
+    <string name="treanding">Treanding</string>
+    <string name="favourite">Favourite</string>
+    <string name="download">Download</string>
+    <string name="content">Content</string>
+    <string name="preferences">Preferences</string>
+    <string name="darkmode">Darkmode</string>
+    <string name="only_download_via_wifi">Only Download via Wifi</string>
 </resources>
