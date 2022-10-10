@@ -37,4 +37,7 @@
     <string name="preferences">Preferences</string>
     <string name="darkmode">Darkmode</string>
     <string name="only_download_via_wifi">Only Download via Wifi</string>
+    <string name="notification">notification</string>
+    <string name="next">next</string>
+    <string name="language">Language</string>
 </resources>
