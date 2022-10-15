@@ -65,6 +65,9 @@
             android:layout_below="@+id/txtName"
             android:layout_marginTop="20dp"
             android:id="@+id/edtName"
+            android:autofillHints="emailAddress"
+            android:inputType="textEmailAddress"
+            android:hint="@string/first_name"
             android:layout_marginStart="50dp"
             android:background="@color/white"
             />
@@ -82,6 +85,9 @@
             android:layout_below="@+id/txtName"
             android:layout_marginTop="20dp"
             android:id="@+id/edtLastname"
+            android:hint="@string/last_name"
+            android:inputType="text"
+            android:autofillHints="text"
             android:layout_marginStart="230dp"
             android:background="@color/white"
             />
@@ -115,6 +121,9 @@
             android:layout_below="@id/txtPhonenumber"
             android:layout_marginTop="20dp"
             android:id="@+id/edtPhone"
+            android:autofillHints="phone"
+            android:inputType="phone"
+            android:hint="@string/_91_123456789"
             android:layout_marginStart="50dp"
             android:background="@color/white"
             />
@@ -145,6 +154,9 @@
             android:layout_below="@id/txtPhonenumber"
             android:layout_marginTop="20dp"
             android:id="@+id/edtPassword"
+            android:hint="@string/enter_password"
+            android:inputType="textPassword"
+            android:autofillHints="password"
             android:layout_marginStart="50dp"
             android:background="@color/white"
             />

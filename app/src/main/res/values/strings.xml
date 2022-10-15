@@ -40,4 +40,7 @@
     <string name="notification">notification</string>
     <string name="next">next</string>
     <string name="language">Language</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="_91_123456789">+91 123456789</string>
 </resources>
